@@ -1,0 +1,4 @@
+dj_database_url
+django
+djangorestframework
+rest_framework_simplejwt
